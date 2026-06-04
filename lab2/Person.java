@@ -1,4 +1,4 @@
-// вариант 2
+// вариант 3
 package JavaLabs.lab2;
 
 public abstract class Person {

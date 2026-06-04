@@ -1,4 +1,4 @@
-// main, вариант 2
+// main, вариант 3
 package JavaLabs.lab2;
 
 public class Main {
