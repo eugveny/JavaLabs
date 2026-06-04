@@ -16,9 +16,9 @@ public class Main {
             manager.registerDataProcessor(
                     new SortProcessor());
 
-            manager.loadData("/home/evg/Projects/Java/lab8/input.txt");
+            manager.loadData("/home/evg/Projects/JavaLabs/lab8/input.txt");
             manager.processData();
-            manager.saveData("/home/evg/Projects/Java/lab8/output.txt");
+            manager.saveData("/home/evg/Projects/JavaLabs/lab8/output.txt");
 
             System.out.println(
                     manager.getProcessedData());

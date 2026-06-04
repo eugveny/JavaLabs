@@ -11,8 +11,8 @@ public class FileCopy {
 
                 System.out.println(System.getProperty("user.dir"));
 
-        String sourceFile = "/home/evg/Projects/Java/lab4/input.txt";
-        String destinationFile = "/home/evg/Projects/Java/lab4/output.txt";
+        String sourceFile = "/home/evg/Projects/JavaLabs/lab4/input.txt";
+        String destinationFile = "/home/evg/Projects/JavaLabs/lab4/output.txt";
 
         try (
                 FileReader reader = new FileReader(sourceFile);

@@ -3,7 +3,7 @@ package JavaLabs.lab4;
 
 public class ArrayAverage {
     public static void main(String[] args) {
-        String[] arr = {"10", "20", "30.5", "abc", "50"};
+        String[] arr = {"10", "20", "30.5", "abc", "2"};
         double sum = 0;
         int count = 0; 
 

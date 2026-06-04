@@ -4,7 +4,7 @@ import java.util.concurrent.*;
 
 public class ArraySumCalculator {
 
-    static class SumTask implements Callable<Integer> { //интерфейс
+    static class SumTask implements Callable<Integer> { // интерфейс
         private final int[] array;
         private final int start;
         private final int end;
@@ -35,9 +35,9 @@ public class ArraySumCalculator {
         };
         int threadsCount = 4;
 
-        //срвис распределяющий задчи по потокам
+        // сервис, распределяющий задчи по потокам
         ExecutorService executor = Executors.newFixedThreadPool(threadsCount);
-        Future<Integer>[] futures = //"квитанции"
+        Future<Integer>[] futures = // "квитанции"
                 new Future[threadsCount];
         int partSize = array.length / threadsCount;
 

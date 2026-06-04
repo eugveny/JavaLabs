@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class CustomExceptionLab {
 
     public static void logError(String msg) {
-        try (FileWriter writer = new FileWriter("/home/evg/Projects/Java/l4/error_log.txt", true)) {
+        try (FileWriter writer = new FileWriter("/home/evg/Projects/JavaLabs/lab4/error_log.txt", true)) {
             writer.write("ОШИБКА: " + msg + "\n");
         } catch (IOException e) {
             System.err.println("Запись в лог невозможна");

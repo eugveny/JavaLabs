@@ -8,7 +8,7 @@ public class TopWords {
 
     public static void main(String[] args) {
 
-        String filePath = "/home/evg/Projects/Java/lab6/text.txt";
+        String filePath = "/home/evg/Projects/JavaLabs/lab6/text.txt";
 
         File file = new File(filePath);
 

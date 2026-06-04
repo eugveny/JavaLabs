@@ -1,4 +1,4 @@
-// задание 2
+// задание 2, вариант 2
 package JavaLabs.lab7;
 import java.util.concurrent.*;
 

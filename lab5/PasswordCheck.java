@@ -11,7 +11,7 @@ public class PasswordCheck {
         Matcher matcher = pattern.matcher(password);
 
         if (matcher.matches()) {
-            System.out.println("Correct passwrod");
+            System.out.println("Correct password");
         } else {
             System.out.println("Incorrect password");
         }
