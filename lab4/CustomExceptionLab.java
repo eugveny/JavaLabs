@@ -1,5 +1,5 @@
-// task 3
-package Java.lab4;
+// задание 3, вариант 6
+package JavaLabs.lab4;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;

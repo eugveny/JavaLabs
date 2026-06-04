@@ -1,5 +1,5 @@
 // вариант 2
-package Java.lab2;
+package JavaLabs.lab2;
 
 public abstract class Person {
 

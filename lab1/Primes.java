@@ -1,5 +1,5 @@
-// task 1
-package Java.lab1;
+// задание 1
+package JavaLabs.lab1;
 
 public class Primes {
 

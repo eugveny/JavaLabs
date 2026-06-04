@@ -1,5 +1,5 @@
-//task 2
-package Java.lab6;
+// задание 2
+package JavaLabs.lab6;
 
 public class Stack<T> {
 

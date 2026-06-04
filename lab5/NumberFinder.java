@@ -1,5 +1,5 @@
-//task 1
-package Java.lab5;
+// задание 1
+package JavaLabs.lab5;
 import java.util.regex.*;
 
 public class NumberFinder {

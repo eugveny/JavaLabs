@@ -1,5 +1,5 @@
-//task 1
-package Java.lab6;
+// задание 1
+package JavaLabs.lab6;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;

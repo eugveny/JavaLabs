@@ -1,4 +1,4 @@
-package Java.lab8;
+package JavaLabs.lab8;
 import java.io.*;
 import java.lang.reflect.Method;
 import java.util.*;

@@ -1,4 +1,4 @@
-package Java.lab2;
+package JavaLabs.lab2;
 
 public class TeacherAssistant extends Student {
 

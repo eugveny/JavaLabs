@@ -1,5 +1,5 @@
-//task 2
-package Java.lab5;
+// задание 2
+package JavaLabs.lab5;
 import java.util.regex.*;
 
 public class PasswordCheck {

@@ -1,5 +1,5 @@
-// task 3, exception
-package Java.lab4;
+// задание 3, exception
+package JavaLabs.lab4;
 
 class CustomInputMismatchException extends Exception {
     public CustomInputMismatchException(String message) {

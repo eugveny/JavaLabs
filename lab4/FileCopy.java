@@ -1,5 +1,5 @@
-// task 2
-package Java.lab4;
+// задание 2, вариант 2
+package JavaLabs.lab4;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;

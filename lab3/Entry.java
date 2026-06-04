@@ -1,5 +1,5 @@
-// task 1, entry
-package Java.lab3;
+// задание 1, entry
+package JavaLabs.lab3;
 
 class Entry<K, V> {
     private K key;

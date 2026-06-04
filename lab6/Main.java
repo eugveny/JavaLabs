@@ -1,5 +1,5 @@
-//task 2's main
-package Java.lab6;
+// main задания 2
+package JavaLabs.lab6;
 
 public class Main {
 

@@ -1,5 +1,5 @@
-//task 5
-package Java.lab5;
+// задание 5
+package JavaLabs.lab5;
 import java.util.regex.*;
 
 public class StartingLetterFinder {

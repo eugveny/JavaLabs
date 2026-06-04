@@ -1,5 +1,5 @@
-//task 3, вариант 2
-package Java.lab7;
+// задание 3, вариант 2
+package JavaLabs.lab7;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.concurrent.ExecutorService;

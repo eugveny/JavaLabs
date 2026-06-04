@@ -1,5 +1,5 @@
-// task 2's main
-package Java.lab3;
+// main задания 2, вариант 5
+package JavaLabs.lab3;
 
 class Main {
     public static void main(String[] args) {

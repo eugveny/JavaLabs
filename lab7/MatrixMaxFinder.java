@@ -1,5 +1,5 @@
-//task 2
-package Java.lab7;
+// задание 2
+package JavaLabs.lab7;
 import java.util.concurrent.*;
 
 public class MatrixMaxFinder {

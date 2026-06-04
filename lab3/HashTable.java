@@ -1,5 +1,5 @@
-// task 1
-package Java.lab3;
+// задание 1
+package JavaLabs.lab3;
 import java.util.*;
 
 class HashTable<K, V> {

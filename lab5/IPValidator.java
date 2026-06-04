@@ -1,5 +1,5 @@
-//task 4
-package Java.lab5;
+// задание 4
+package JavaLabs.lab5;
 import java.util.regex.*;
 
 public class IPValidator {

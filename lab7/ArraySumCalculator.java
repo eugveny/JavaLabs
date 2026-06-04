@@ -1,5 +1,5 @@
-//task 1
-package Java.lab7;
+// задание 1, вариант 2
+package JavaLabs.lab7;
 import java.util.concurrent.*;
 
 public class ArraySumCalculator {

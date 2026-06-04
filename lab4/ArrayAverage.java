@@ -1,5 +1,5 @@
-// task 1
-package Java.lab4;
+// задание 1
+package JavaLabs.lab4;
 
 public class ArrayAverage {
     public static void main(String[] args) {

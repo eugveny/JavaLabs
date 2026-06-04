@@ -1,5 +1,5 @@
-//task 3
-package Java.lab6;
+// задание 3, вариант 2
+package JavaLabs.lab6;
 import java.util.LinkedList;
 import java.util.HashMap;
 

@@ -1,5 +1,5 @@
-// task 2
-package Java.lab1;
+// задание 2
+package JavaLabs.lab1;
 
 public class Palindrome {
 

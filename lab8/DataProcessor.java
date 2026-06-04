@@ -1,5 +1,5 @@
 // аннотация
-package Java.lab8;
+package JavaLabs.lab8;
 import java.lang.annotation.*;
 
 @Retention(RetentionPolicy.RUNTIME)

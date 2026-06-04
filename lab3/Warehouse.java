@@ -1,5 +1,5 @@
-// task 2
-package Java.lab3;
+// задание 2
+package JavaLabs.lab3;
 import java.util.HashMap;
 
 class Warehouse {

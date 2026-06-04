@@ -1,5 +1,5 @@
-//task 3
-package Java.lab5;
+// задание 3
+package JavaLabs.lab5;
 import java.util.regex.*;
 
 public class CaseHighlighter {
