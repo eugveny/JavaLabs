@@ -5,6 +5,6 @@ import java.lang.annotation.*;
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.METHOD)
 
-//собственная аннотация
+// собственная аннотация
 public @interface DataProcessor {
 }

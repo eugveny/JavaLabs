@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 public class FilterProcessor {
     @DataProcessor
     public List<Integer> filter(List<Integer> data) {
-        return data.stream() //список по stream api
+        return data.stream() // список по stream api
                 .filter(number -> number > 50)
                 .collect(Collectors.toList());
     }

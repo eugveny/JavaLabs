@@ -13,7 +13,7 @@ public class CaseHighlighter {
 
         System.out.println(result);
 
-        // prikol.exe
+        // prikol
         String upper = result.replaceAll("[^A-Z]", "");
         upper += "NG";
         System.out.println(upper);
